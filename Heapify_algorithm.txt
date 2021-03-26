@@ -1,0 +1,8 @@
+Heapify
+-Find largest in the "Family"
+-swap (if not already root)
+	->Heapify swapped child
+
+Heap
+-iterate from end(n/2) to start
+	->Heapify(node)
